@@ -1,0 +1,5 @@
+flask
+flask-marshmallow
+flask-swagger-ui
+marshmallow-sqlalchemy
+flask-swagger-ui
